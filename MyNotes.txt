@@ -4,3 +4,4 @@ java has GC
 java is faster
 Hello world
 Java is slow
+java is toooo slow
