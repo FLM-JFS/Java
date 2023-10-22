@@ -3,3 +3,4 @@ Java is a platform independent
 java has GC
 java is faster
 Hello world
+Java is slow
